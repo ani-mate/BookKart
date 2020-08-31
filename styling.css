@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(243, 253, 253);
+}
+.txt{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-variant: normal;
+    color: black;
+    
+}
+img{
+    width: 30%;
+    height: 10%;
+}
+.boxter{
+    align-content: center;
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(34, 139, 143);
+    padding: 50px;
+    margin: auto;
+    border-radius: 20px;
+    background-color:rgb(196, 247, 242);
+}
+.lgbtn{
+    background-color:rgb(25, 200, 231);
+    color: rgb(255, 254, 254);
+    padding: 3px;
+    margin: 10px;
+    width: 60%;
+    
+}
+.rgbtn{
+    background-color:rgb(16, 167, 236);
+    color: rgb(255, 254, 254);
+    padding: 3px;
+    margin: 10px;
+    width: 60%;
+}
+.tbox{
+    
+    
+    width: 60%;
+    height: 30px;
+}
